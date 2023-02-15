@@ -41,6 +41,6 @@ fs.writeFile(`${pathDir}/${name}.less`, '', writeFileErrorHandler);
 // index.tsx
 fs.writeFile(`${pathDir}/index.tsx`, page(toPascalCase(name)), writeFileErrorHandler);
 
-
+// test
 
 
